@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background-color: white;
+    padding: 20px;
+    border: 20px;
+}
+.profile{
+    padding: 20px;
+    border: 20px;
+}
+.vid{
+    width: 300px;
+    height: 150px;
+}
+.navlist{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    list-style: none;
+    text-decoration: none;
+    gap: 2cm;
+    /* justify-items: right; */
+    color: white;
+}
+button:hover{
+    text-align: right;
+    /* background-color: ; */
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse:collapse;
+  }
+.timetables{
+    width: 500px;
+    height: 90px;
+  }
+.timetable{
+    width:500px;
+    height: 90px;
+    text-align: center;
+}
+body{
+    background-image: url(./IMG_0834.JPG);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
